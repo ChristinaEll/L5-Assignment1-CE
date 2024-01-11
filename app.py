@@ -5,7 +5,7 @@
 # Connect to the trees.db database
 # Get a cursor so you can write queries to the database
 
-
+# zlhvlhvljhgvlJHgvJHvglJHgvKXJHgv
 
 # Exercise 3
 # Use the execute function to run a SELECT * query on trees.db
