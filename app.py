@@ -17,3 +17,5 @@
 # Edit the SELECT query to show the rowid 
 # In the terminal, run this file again
 # See the output of the query on tables.html
+
+#Test
